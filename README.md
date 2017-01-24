@@ -23,11 +23,6 @@ Support
 * [GutHub issues](https://github.com/rmrevin/yii2-pug/issues)
 * [Public chat](https://gitter.im/rmrevin/support)
 
-Update to `2.17`
-----------------
-
-Be careful in version 2.17 deprecated methods were removed. More in the [changelog](https://github.com/rmrevin/yii2-pug/blob/master/CHANGELOG.md).
-
 Installation
 ------------
 
