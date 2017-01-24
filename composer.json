@@ -1,0 +1,41 @@
+{
+  "name": "rmrevin/yii2-pug",
+  "description": "Yii2 Pug (ex Jade) extension",
+  "keywords": [
+    "yii",
+    "pug",
+    "jade",
+    "view",
+    "renderer"
+  ],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "support": {
+    "issues": "https://github.com/rmrevin/yii2-pug/issues",
+    "source": "https://github.com/rmrevin/yii2-pug"
+  },
+  "authors": [
+    {
+      "name": "Revin Roman",
+      "email": "roman@rmrevin.com",
+      "homepage": "https://rmrevin.com/"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "2.0.*",
+    "pug-php/pug": "~2.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "rmrevin\\yii\\pug\\": ""
+    }
+  },
+  "extra": {
+    "asset-installer-paths": {
+      "npm-asset-library": "vendor/npm",
+      "bower-asset-library": "vendor/bower"
+    }
+  }
+}
